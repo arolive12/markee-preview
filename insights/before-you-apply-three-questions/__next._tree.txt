@@ -1,7 +1,7 @@
 :HL["/markee-preview/_next/static/css/d01bc149ca33a849.css","style"]
-:HL["/markee-preview/_next/static/css/4fd41e788126cdf2.css","style"]
+:HL["/markee-preview/_next/static/css/2fb928268583f3f9.css","style"]
 :HL["/markee-preview/fonts/manrope-latin.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"before-you-apply-three-questions","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"insights","h":131136,"c":"$Q2"}]]
-0:{"b":"gGFyME5LYHyXepSlb0D1r","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"nRsT7O4A5OTlzOfi_AmUc","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
