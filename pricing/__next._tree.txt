@@ -3,4 +3,4 @@
 :HL["/markee-preview/fonts/manrope-latin.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"pricing","h":64,"c":"$Q2"}]]
-0:{"b":"z5hBv54BV4ZxqY-3jSL7r","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"WxZr7nb3pYZxjDqQhXk9J","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
