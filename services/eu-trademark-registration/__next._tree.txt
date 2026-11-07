@@ -1,7 +1,7 @@
 :HL["/markee-preview/_next/static/css/c964350a7f9fa076.css","style"]
-:HL["/markee-preview/_next/static/css/c485776a75f3dbe9.css","style"]
+:HL["/markee-preview/_next/static/css/877f717de6577325.css","style"]
 :HL["/markee-preview/fonts/manrope-latin.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"eu-trademark-registration","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"services","h":64,"c":"$Q2"}]]
-0:{"b":"LvQWgIwngXHEwgd0bBa1G","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"zgiIYijhBTsnnKsBz9s2Z","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
