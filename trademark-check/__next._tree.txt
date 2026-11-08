@@ -1,6 +1,6 @@
 :HL["/markee-preview/_next/static/css/c964350a7f9fa076.css","style"]
-:HL["/markee-preview/_next/static/css/5cbbdc9007691749.css","style"]
+:HL["/markee-preview/_next/static/css/75a233452a495791.css","style"]
 :HL["/markee-preview/fonts/manrope-latin.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"trademark-check","h":64,"c":"$Q2"}]]
-0:{"b":"yyky4mp_qaabXql5fRsFp","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"1y5AyUdcVoAFiJm0lj1tr","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
