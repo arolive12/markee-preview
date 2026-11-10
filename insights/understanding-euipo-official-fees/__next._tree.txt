@@ -1,7 +1,7 @@
 :HL["/markee-preview/_next/static/css/c964350a7f9fa076.css","style"]
-:HL["/markee-preview/_next/static/css/3e96de6bb172fd9e.css","style"]
+:HL["/markee-preview/_next/static/css/e3828a9f7abe6c38.css","style"]
 :HL["/markee-preview/fonts/manrope-latin.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"understanding-euipo-official-fees","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"insights","h":131136,"c":"$Q2"}]]
-0:{"b":"YuPWsFb4P10vdgqyKqBO1","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"18CXkY1iKDZKdws8xEW6s","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
